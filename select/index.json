@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "GAGA",
+  "base_artist": "Suchmos",
+  "createdAt": "2025-12-19T00:26:32.532863Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alejandro Remix - Lady Gaga",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/01_Alejandro_Remix_-_Lady_Gaga_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Radio Gaga",
+      "artist": "Electric Six",
+      "has_synced": false,
+      "path": "select/02_Radio_Gaga_Electric_Six.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Video Phone (Extended Remix feat. Lady Gaga)",
+      "artist": "Beyoncé",
+      "has_synced": false,
+      "path": "select/03_Video_Phone_(Extended_Remix_feat._Lady_Gaga)_Beyoncé.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Video Phone [Extended Remix featuring Lady Gaga]",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/04_Video_Phone_[Extended_Remix_featuring_Lady_Gaga]_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chillin (Feat. Lady Gaga)",
+      "artist": "Wale",
+      "has_synced": false,
+      "path": "select/05_Chillin_(Feat._Lady_Gaga)_Wale.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "GAGA",
+      "artist": "ДЕТИ RAVE feat. Big Russian Boss",
+      "has_synced": true,
+      "path": "select/06_GAGA_ДЕТИ_RAVE_feat._Big_Russian_Boss.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "GAGA",
+      "artist": "ДЕТИ RAVE/Big Russian Boss",
+      "has_synced": true,
+      "path": "select/07_GAGA_ДЕТИ_RAVE_Big_Russian_Boss.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Poker Face - Lady Gaga",
+      "artist": "Lady GaGa",
+      "has_synced": true,
+      "path": "select/08_Poker_Face_-_Lady_Gaga_Lady_GaGa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(Introduction To Gaga, Palmer, Madonna: A Polemic)",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/09_(Introduction_To_Gaga,_Palmer,_Madonna__A_Polemic)_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(Introduction to Gaga, Palmer, Madonna; a Polemic)",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/10_(Introduction_to_Gaga,_Palmer,_Madonna;_a_Polemic)_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Perform This Way (Parody of \"Born This Way\" by Lady Gaga)",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/11_Perform_This_Way_(Parody_of__Born_This_Way__by_Lady_Gaga)_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Just Dance (Live In Las Vegas)(Lady Gaga)",
+      "artist": "Richard Cheese",
+      "has_synced": false,
+      "path": "select/12_Just_Dance_(Live_In_Las_Vegas)(Lady_Gaga)_Richard_Cheese.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Radio Gaga",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/13_Radio_Gaga_Queen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Generations Of Love (La La Gone Gaga Mix)",
+      "artist": "Boy George And Culture Club",
+      "has_synced": true,
+      "path": "select/14_Generations_Of_Love_(La_La_Gone_Gaga_Mix)_Boy_George_And_Culture_Club.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "3-Way (The Golden Rule) (feat. Justin Timberlake & Lady Gaga)",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/15_3-Way_(The_Golden_Rule)_(feat._Justin_Timberlake_&_Lady_Gaga)_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sarah Palin vs. Lady Gaga",
+      "artist": "Epic Rap Battles of History feat. Nice Peter & Lisanova",
+      "has_synced": true,
+      "path": "select/16_Sarah_Palin_vs._Lady_Gaga_Epic_Rap_Battles_of_History_feat._Nice_Peter_&_Lisanova.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GAGA",
+      "artist": "Suchmos",
+      "has_synced": false,
+      "path": "select/pl_01_GAGA_Suchmos.txt"
+    }
+  ]
+}
